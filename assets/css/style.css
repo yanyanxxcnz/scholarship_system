@@ -1,0 +1,4 @@
+/* assets/css/style.css - small custom styles on top of Bootstrap */
+body { background-color: #f4f6f9; }
+.card { border-radius: 12px; }
+.table thead th { white-space: nowrap; }
